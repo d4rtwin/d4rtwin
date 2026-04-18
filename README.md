@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=d4rtwin&label=Profile%20views&color=0e75b6&style=flat" alt="d4rtwin" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Creative+Builder;Always+Learning+New+Things" />
+</p>
 
 ---
 
@@ -36,13 +39,12 @@
 ---
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,python,dotnet,git,github,gitlab,mysql,apache" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Backend & DB** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white) |
+| **Design** | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
 
 ---
 
