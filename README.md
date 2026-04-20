@@ -1,10 +1,7 @@
 # Hi, I'm d4rtwin 👋
 
 ## 👨‍💻 About Me
-- 💻 Developer  
-- 🚀 Interested in backend & system design  
-- 🌱 Currently learning new technologies  
-- ⚡ Like building real-world projects  
+Updating
 
 ---
 
