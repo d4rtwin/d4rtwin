@@ -1,6 +1,4 @@
-# Hi, I'm d4rtwin 👋
 
-## 👨‍💻 About Me
 Updating
 
 ---
@@ -11,19 +9,6 @@ Updating
 - Instagram: https://instagram.com/dacs.think
 - YouTube: https://youtube.com/@d4rtwin
 - Email: dacthinhhh@gmail.com  
-
----
-
-## 🛠 Tech Stack
-- **Languages:** C++, C#, JavaScript, Python  
-- **Backend & DB:** .NET, MySQL, Apache  
-- **Tools:** Git, GitHub, GitLab  
-- **Design:** Canva  
-
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=d4rtwin&show_icons=true)
 
 ---
 
